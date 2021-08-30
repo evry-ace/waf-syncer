@@ -5,7 +5,7 @@ go 1.13
 require (
 	contrib.go.opencensus.io/exporter/ocagent v0.4.10 // indirect
 	github.com/Azure/azure-sdk-for-go v27.0.0+incompatible
-	github.com/Azure/go-autorest v11.7.0+incompatible
+	github.com/Azure/go-autorest/v14 v14.2.0
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
