@@ -19,7 +19,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
-	github.com/spf13/pflag v1.0.3
+	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.2.1
 	go.opencensus.io v0.20.0 // indirect
 	go.uber.org/atomic v1.4.0 // indirect
