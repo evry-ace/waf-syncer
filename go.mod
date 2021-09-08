@@ -22,10 +22,7 @@ require (
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.2.1
 	go.opencensus.io v0.20.0 // indirect
-	go.uber.org/atomic v1.4.0 // indirect
-	go.uber.org/multierr v1.2.0 // indirect
-	go.uber.org/zap v1.9.1
-	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c // indirect
+	go.uber.org/zap v1.19.1
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
