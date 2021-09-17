@@ -28,7 +28,7 @@ require (
 	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	k8s.io/api v0.0.0
-	k8s.io/apimachinery v0.0.0
+	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/code-generator v0.0.0
 	k8s.io/gengo v0.0.0-20190327210449-e17681d19d3a // indirect
