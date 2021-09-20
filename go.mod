@@ -6,27 +6,21 @@ require (
 	contrib.go.opencensus.io/exporter/ocagent v0.4.10 // indirect
 	github.com/Azure/azure-sdk-for-go v27.0.0+incompatible
 	github.com/Azure/go-autorest v11.7.0+incompatible
+	github.com/apache/thrift v0.12.0 // indirect
 	github.com/dimchansky/utfbom v1.1.0 // indirect
-	github.com/gogo/protobuf v1.2.1 // indirect
-	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
-	github.com/grpc-ecosystem/grpc-gateway v1.8.5 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
-	github.com/json-iterator/go v1.1.6 // indirect
 	github.com/knative/pkg v0.0.0-20191020211422-ec5f5148b8d0
-	github.com/magiconair/properties v1.8.0
+	github.com/magiconair/properties v1.8.5
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
-	github.com/spf13/pflag v1.0.3
-	github.com/spf13/viper v1.2.1
-	go.opencensus.io v0.20.0 // indirect
-	go.uber.org/atomic v1.4.0 // indirect
-	go.uber.org/multierr v1.2.0 // indirect
-	go.uber.org/zap v1.9.1
-	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c // indirect
-	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
+	github.com/openzipkin/zipkin-go v0.1.6 // indirect
+	github.com/spf13/pflag v1.0.5
+	github.com/spf13/viper v1.9.0
+	go.uber.org/zap v1.17.0
+	gopkg.in/resty.v1 v1.12.0 // indirect
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/client-go v11.0.0+incompatible
