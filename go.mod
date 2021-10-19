@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/json-iterator/go v1.1.6 // indirect
-	github.com/knative/pkg v0.0.0-20191020211422-ec5f5148b8d0
+	github.com/knative/pkg a34efd6b409d
 	github.com/magiconair/properties v1.8.0
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
